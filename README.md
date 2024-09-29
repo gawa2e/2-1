@@ -1,3 +1,7 @@
-# HansungSci_2-1_project 
+## Automated Grading Program
 
-고등학교 2학년 정보 수업 시간에 수행한 python 프로젝트입니다. 
+While working on an “Automated Grading Program” project during my high school Information Science class, I became fascinated by the idea of processing human language with computers. Although I was a beginner and had no knowledge of the field of NLP, I thoroughly enjoyed the process of discussing and contemplating how computers could accurately understand and evaluate the meaning of the language we use. When I entered university, I learned that this was the field of NLP, and I have since been refining my interest in it. It was a pivotal moment that became the starting point for my career path, which is why I’m archiving it here.
+
+These are the original archive of a document I wrote in my second year of high school.
+**Report**: [Link](https://github.com/ohmyksh/hssh2019_opensourceproject)
+**Project video**: [Link](https://www.youtube.com/watch?v=uuvztTS3jyQ)
