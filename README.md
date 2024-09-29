@@ -4,6 +4,6 @@ While working on an “Automated Grading Program” project during my high schoo
 
 It was a pivotal moment🔥 that became the starting point for my career path, which is why I’m archiving it here.
 
-These are the original archive of a document I wrote in my second year of high school.  
+This is the original archive of a document I wrote in my second year of high school.  
 - **Report**: [Link](https://github.com/ohmyksh/HansungSci_2-1_project/blob/master/2602-my%20report.md)  
 - **Project video**: [Link](https://www.youtube.com/watch?v=uuvztTS3jyQ)
